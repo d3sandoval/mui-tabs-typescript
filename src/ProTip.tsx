@@ -16,6 +16,8 @@ const useStyles = makeStyles((theme: Theme) =>
   createStyles({
     root: {
       margin: theme.spacing(6, 0, 3),
+      // height: 2000,
+      background: '#EEEEEE',
     },
     lightBulb: {
       verticalAlign: 'middle',
